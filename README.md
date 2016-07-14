@@ -1,7 +1,7 @@
-redmine_bootstrap
+redmine_bluemine_theme
 =================
 
-Plugin to override some Redmine views using the Bootstrap CSS scheme
+Plugin to override some Redmine views.
 
 Installation
 ============
