@@ -2,6 +2,8 @@ redmine_bluemine_theme
 =================
 
 Plugin to override some Redmine views.
+Forked from [redmine_bootstrap](https://github.com/HE-Arc/redmine_bootstrap) for the basic idea.
+
 
 Installation
 ============
